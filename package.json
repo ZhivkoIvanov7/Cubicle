@@ -1,0 +1,24 @@
+{
+  "name": "cubicle",
+  "version": "1.0.0",
+  "description": "",
+  "main": "src/index.js",
+  "scripts": {
+   "start": "node ./src/index.js",
+   "dev": "nodemon ./src/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ZhivkoIvanov7/Cubicle.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ZhivkoIvanov7/Cubicle/issues"
+  },
+  "homepage": "https://github.com/ZhivkoIvanov7/Cubicle#readme",
+  "devDependencies": {
+    "nodemon": "^2.0.20"
+  }
+}
